@@ -27,4 +27,4 @@ async def on_message(message):
     if message.author != client.user:
         await message.channel.send(message.content);
 
-client.run("ODg4ODA2MDU0ODE1NzMxNzMz.YUYDJA.2wu-xD-Hn2mBs_Vbv3QyCX6p4cU")
+client.run("ODg4ODA2MDU0ODE1NzMxNzMz.YUYDJA.-peMP7SORqlIhQVj2D4QcDkXvBU")
