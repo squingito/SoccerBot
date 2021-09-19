@@ -51,4 +51,4 @@ async def on_message(message):
     if message.author != client.user:
         await inputHandler(message)
 
-client.run("ODg4ODA2MDU0ODE1NzMxNzMz.YUYDJA.-peMP7SORqlIhQVj2D4QcDkXvBU")
+client.run(#Put Token Here)
